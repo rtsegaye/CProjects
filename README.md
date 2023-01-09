@@ -1,0 +1,15 @@
+# CProjects
+CProjects
+
+Projects made with C 
+
+Project 1 - Grades Calculator
+Project 2 - Document Manager  
+Project 3 - Photo Album
+Project 3 - Draw Figures
+Project 4 - Calendar
+Project 5 - Assembly
+Project 6 - Shell Senior
+
+Because of university academic guidelines I can't post the details on GitHub
+FOR HIRING PURPOSE ONLY - please email rtsegaye@terpmail.umd.edu for detail. 
